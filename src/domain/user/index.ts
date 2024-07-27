@@ -1,2 +1,2 @@
-export type * from "./model.d"
+export type * from "./model"
 export * from "./entity"

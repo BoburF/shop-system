@@ -1,2 +1,2 @@
-export type * from "./identifier.d"
+export type * from "./identifier"
 export * from "./indetifier.impl"
